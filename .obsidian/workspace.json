@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llm.md",
+                "file": "create a link.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "llm"
+              "title": "create a link"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "llm.md",
+                "file": "create a link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for llm"
+              "title": "Backlinks for create a link"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "llm.md",
+                "file": "create a link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from llm"
+              "title": "Outgoing links from create a link"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "llm.md",
+                "file": "create a link.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of llm"
+              "title": "Outline of create a link"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "3a7b4876de28502e",
   "lastOpenFiles": [
+    "Welcome.md",
     "llm.md",
     "2026-07-19.md",
     "Untitled 3.canvas",
@@ -193,7 +194,6 @@
     "Untitled.base",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "create a link.md",
-    "Welcome.md"
+    "create a link.md"
   ]
 }
