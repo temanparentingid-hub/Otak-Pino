@@ -177,13 +177,23 @@
               "icon": "lucide-list",
               "title": "Outline of The Single Most Important Parenting Strategy  Becky Kennedy  TED"
             }
+          },
+          {
+            "id": "70e091b2e635edf3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,8 +207,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6bb28f4f56efaaa8",
+  "active": "066af23733e9107f",
   "lastOpenFiles": [
+    "Raw/karpathy-llm-wiki.md",
+    "insight/llm-wiki-bahasa-indonesia.md",
+    "insight",
     "Raw/The Single Most Important Parenting Strategy  Becky Kennedy  TED.md",
     "Raw",
     "General/Explain Teman Parenting.pdf",
