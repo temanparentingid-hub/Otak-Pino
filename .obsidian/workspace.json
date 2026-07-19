@@ -11,10 +11,12 @@
             "id": "3a7b4876de28502e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "General/Explain Teman Parenting.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Explain Teman Parenting"
             }
           }
         ]
@@ -90,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "General/Explain Teman Parenting.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Explain Teman Parenting"
             }
           },
           {
@@ -108,11 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "General/Explain Teman Parenting.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Explain Teman Parenting"
             }
           },
           {
@@ -150,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "General/Explain Teman Parenting.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Explain Teman Parenting"
             }
           }
         ]
@@ -177,8 +182,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a7b4876de28502e",
+  "active": "066af23733e9107f",
   "lastOpenFiles": [
+    "Video",
+    "Affiliate",
+    "Product/Product Teman Parenting.pdf",
+    "General/Explain Teman Parenting.pdf",
+    "General",
+    "Untitled.md",
+    "Product",
+    "sources/karpathy-llm-wiki.md",
+    "sources",
     "create a link.md",
     "llm-wiki.md",
     "Welcome.md",
